@@ -1,0 +1,19 @@
+_id,Country,Description,Genre,Name,Price,Region,Year
+67c6f6bbf2279d7443684a88,France,A wine from the Bordeaux region,0,Chateau Margaux,10,0,2010
+67c6f6bbf2279d7443684a89,France,A wine from the Bordeaux region,0,Chateau Latour,20,0,2010
+67c6f6bbf2279d7443684a8a,France,A wine from the Bordeaux region,0,Chateau Lafite,30,0,2010
+67c6f6bbf2279d7443684a8b,France,A wine from the Bordeaux region,0,Chateau Margaux,20,0,2010
+67c6f6bbf2279d7443684a8c,France,A wine great with fish,1,Sauvignon Blanc,50,0,2010
+67c6f6bbf2279d7443684a8d,France,A wine great for dessert,3,Champagne Veuve Clicquot,150,2,2010
+67c6f6bbf2279d7443684a8e,France,A classic Burgundy wine,0,Pinot Noir,40,1,2015
+67c6f6bbf2279d7443684a8f,France,A smooth and rich wine,0,Merlot,25,0,2012
+67c6f6bbf2279d7443684a90,Germany,A crisp and refreshing wine,1,Riesling,35,20,2018
+67c6f6bbf2279d7443684a91,USA,A bold and spicy wine,0,Zinfandel,45,19,2016
+67c6f6bbf2279d7443684a92,France,A full-bodied wine with dark fruit flavors,0,Syrah,50,3,2014
+67c6f6bbf2279d7443684a93,France,A rich and buttery wine,1,Chardonnay,30,1,2017
+67c6f6bbf2279d7443684a94,USA,A robust and complex wine,0,Cabernet Sauvignon,60,18,2013
+67c6f6bbf2279d7443684a95,Argentina,A rich and velvety wine,0,Malbec,20,17,2019
+67c6f6bbf2279d7443684a96,Italy,A light and bubbly wine,3,Prosecco,15,14,2020
+67c6f6bbf2279d7443684a97,Spain,A smooth and elegant wine,0,Tempranillo,35,15,2011
+67c6f6bbf2279d7443684a98,France,A fragrant and spicy wine,1,Gewurztraminer,25,4,2018
+67c6f6bbf2279d7443684a99,Italy,A bright and fruity wine,0,Sangiovese,40,16,2015
